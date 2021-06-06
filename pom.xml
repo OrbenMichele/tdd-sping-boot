@@ -10,20 +10,11 @@
 
     <developers>
         <developer>
-            <id>jt</id>
-            <name>John Thompson</name>
-            <email>john@springframework.guru</email>
+            <id>om</id>
+            <name>Michele Oben</name>
+            <email>micheleorben@gmail.com</email>
         </developer>
     </developers>
-
-    <inceptionYear>2018</inceptionYear>
-
-    <!--<licenses>-->
-        <!--<license>-->
-            <!--<name>The Apache License, Version 2.0</name>-->
-            <!--<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>-->
-        <!--</license>-->
-    <!--</licenses>-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
